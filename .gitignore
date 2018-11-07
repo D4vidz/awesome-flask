@@ -52,3 +52,7 @@ MANIFEST
 .mr.developer.cfg
 .project
 .pydevproject
+
+# custom
+.idea/*
+*/__init__.py

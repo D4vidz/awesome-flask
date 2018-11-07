@@ -54,5 +54,5 @@ MANIFEST
 .pydevproject
 
 # custom
-.idea/*
+.idea/
 */__init__.py

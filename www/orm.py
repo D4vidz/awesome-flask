@@ -7,7 +7,8 @@
 @time: 18-11-7 下午7:18
 """
 
-import asyncio, logging
+import asyncio
+import logging
 import aiomysql
 
 
